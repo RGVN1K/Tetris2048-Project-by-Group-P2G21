@@ -1,2 +1,1 @@
-# Files-For-Prorects
-Files For Prorects
+Files for the tetris 2048 project. If you are using an compiler except intellij idea, you are fine to use classic stdlib.jar. If you are using intellij idea, you need to download the given .jar file and add your java library.
